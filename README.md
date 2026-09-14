@@ -233,4 +233,4 @@ This repository serves as the official landing page for Duplicate Cleaner. The s
 **Get the most recent version of Duplicate Cleaner today!**
 
 ---
-**Last updated:** 2026-09-14 17:59:09 UTC
+**Last updated:** 2026-09-14 21:44:54 UTC
